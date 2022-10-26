@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Megan {Meg}
-- 👀 I’m interested in front-end development. I'm really new to coding, would love to learn python and AI as well. 
+- 👀 I’m interested in front-end development. I'm really new to coding.
 - 🌱 I’m currently learning HTML, CSS and Javascript. 
 - 💞️ I’m looking to build my portfolio.
 
